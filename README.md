@@ -7,16 +7,16 @@ apt update
 apt upgrade -y
 apt install wget
 wget https://raw.github.com/bohemianskode/SetupWeeman/master/setup
+
 chmod +x setup
 ./setup
 
-After Installation Type This Command To Run Weeman On Termux
+Sebelum melakukan instalasi Weeman di Pastikan Aplikasi Termux anda sudah terpasang
+Instal Weeman
 
-weeman
+Jika Anda Ingin Menginstal Weeman Kemudian Ketik Perintah Ini
 
-If You Want To Install Weeman Then Type This Command
-
-uninstallweeman
+Uninstall
 
 Selamat Phishing di Termux Weeman
 
