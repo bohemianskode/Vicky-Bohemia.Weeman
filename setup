@@ -14,8 +14,8 @@ wget https://raw.githubusercontent.com/HackZonE404/SetupWeeman/master/weeman
 wget https://raw.githubusercontent.com/HackZonE404/SetupWeeman/master/uninstallweeman 
 chmod +x *
 cp -rf weeman $PREFIX/bin/
-cp -rf uninstallweeman $PREFIX/bin
+cp  -rf uninstallweeman $PREFIX /bin
 cd $HOME
-rm -rf weeman
-rm -rf uninstallweeman
-echo 'Successfully Installed Weeman Please Subscribe My Channel HackZonE'
+rm  -rf weeman
+rm  -rf uninstallweeman
+echo      'Weeman Berhasil Diinstall Silahkan Subscribe Channel Saya vicky'
